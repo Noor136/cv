@@ -1,0 +1,25 @@
+body {
+  /* background-color: #8D2828; */
+}
+
+img {
+  height: 200px;
+  width: 200px;
+}
+
+h1 {
+  color: #4F0E0E;
+  /* text-shadow: 2px 5px 3px #D83A56; */
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-top-width: thick;
+  width: 5%
+}
+
+.tmp {
+  font-style: italic;
+  font-weight: bold;
+}
